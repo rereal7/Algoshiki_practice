@@ -1,5 +1,5 @@
 # Algoshiki_practice
-## [アルゴ式](https://algo-method.com/)のソースコード保管する場所
+## [アルゴ式](https://algo-method.com/)の解答コードを保管する場所
 
 ### ディレクトリの詳細
 
