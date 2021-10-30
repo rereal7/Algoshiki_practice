@@ -1,3 +1,4 @@
+# Q2-1. 方程式を解く
 n = int(input())
 
 left = 0
