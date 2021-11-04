@@ -18,5 +18,5 @@ while right - left > 1e-4:
 	else:
 		right = mid
 
-ans = left 
+ans = left
 print(ans)

@@ -1,3 +1,5 @@
+# Q2-4. 小さい数の個数
+
 n,m = map(int, input().split())
 A = list(map(int,input().split()))
 B = list(map(int,input().split()))

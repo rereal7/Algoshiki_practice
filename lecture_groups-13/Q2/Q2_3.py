@@ -1,3 +1,5 @@
+# Q2-3. 最小の添字
+
 def binary_search(key:int, A:list):
 	ng = -1 # 「index = 0」が条件を満たすこともあるので、初期値は -1
 	ok = len(A) # 「index = a.size()-1」が条件を満たさないこともあるので、初期値は len(A)
@@ -10,7 +12,7 @@ def binary_search(key:int, A:list):
 		flag = False
 		if A[mid] >= key :
 			flag = True
-		
+
 		if flag:
 			ok = mid
 		else:
